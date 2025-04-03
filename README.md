@@ -81,5 +81,26 @@ Qualitative Results
 - ✅ Anatomical location tagging (e.g., Right Frontal Lobe)  
 - ✅ Bounding box & center marker  
 - ✅ Mask download option  
-- ✅ Gradio UI with overlay opacity control  
+- ✅ Gradio UI with overlay opacity control
+
+---
+
+## 💻 Run in Google Colab
+
+This project is designed to run entirely inside a **Google Colab notebook** — no local setup required.  
+Simply open the Colab notebook, run the cells, and interact with the live Gradio interface.
+
+> ✅ Ideal for demos, AI internships, or quick experimentation.
+
+---
+
+## 📦 Requirements
+
+```txt
+tensorflow
+opencv-python
+numpy
+gradio
+scipy
+
 
