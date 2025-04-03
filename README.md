@@ -19,6 +19,7 @@ once we upload the image it will detect and give us we can able to download the 
 We used open-source neuroimaging data (MRI) and processed it with the following pipeline:
 
 Preprocessing Pipeline
+
 ![image](https://github.com/user-attachments/assets/73d184ac-2148-4527-9274-3b383e9e7c4d)
 
 
