@@ -35,7 +35,8 @@ Steps involved:
 
 The core model is an **Attention U-Net**. Here's how the architecture and output flow works:
 
-![Model Pipeline]
+Model Pipeline
+
 ![image](https://github.com/user-attachments/assets/dab76e53-f70b-4d3c-8cc3-a53758bf7801)
 
 
