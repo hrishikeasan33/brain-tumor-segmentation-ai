@@ -9,8 +9,17 @@ An open-source AI framework for automated brain tumor segmentation, localization
 ![image](https://github.com/user-attachments/assets/d23be267-db4c-4383-aa47-dc17e529cb29)
 once we upload the image it will detect and give us we can able to download the predicted mask 
 ![image](https://github.com/user-attachments/assets/6b2a7d4e-e782-402c-af07-f71bdd1eecdd)
+---
 
+## 🎥 Demo Walkthrough (Google Drive Recording)
 
+Watch the full screen recording showing how the app detects, localizes, and classifies brain tumors in real time:
+
+▶️ [Click to Watch the Demo Video](https://drive.google.com/file/d/1NGFy2ValPOvkvuAmkD81pbqWSLBdkha-/view?usp=sharing)
+
+> 🔹 Runs in Google Colab  
+> 🔹 Live Gradio interface  
+> 🔹 Upload MRI → Get Segmentation → Download Mask
 
 ---
 
