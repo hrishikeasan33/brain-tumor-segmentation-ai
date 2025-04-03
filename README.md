@@ -51,7 +51,28 @@ We performed hypothesis testing between **true tumor areas** and **predicted tum
 ![Statistical Tests]![image](https://github.com/user-attachments/assets/9f41797b-66c3-4c8d-a595-95a4dc1b15c9)
 
 
-```text
-T-test p-value: 0.00073
-ANOVA p-value: 0.00073
+## 📈 Tumor Area Distribution  
+Histogram comparing predicted vs ground truth tumor regions:
+
+![Tumor Area Distribution]![image](https://github.com/user-attachments/assets/2245d3b4-9415-4a38-b5c0-f605a424cb71)
+
+
+---
+
+## 🎯 Qualitative Results  
+Here is a visual comparison between actual tumor masks and predicted output:
+
+![Qualitative Results]![image](https://github.com/user-attachments/assets/1a23f453-66fb-48d4-a00d-3467aa2292b1)
+
+---
+
+## 🛠 Features
+
+- ✅ Attention U-Net segmentation  
+- ✅ Tumor area (mm²) & severity level  
+- ✅ Tumor confidence score  
+- ✅ Anatomical location tagging (e.g., Right Frontal Lobe)  
+- ✅ Bounding box & center marker  
+- ✅ Mask download option  
+- ✅ Gradio UI with overlay opacity control  
 
